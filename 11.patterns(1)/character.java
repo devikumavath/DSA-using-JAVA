@@ -14,5 +14,9 @@ public class character {
             
         }
     }
+
+    public static char toUpperCase(char charAt) {
+        return 0;
+    }
     
 }
